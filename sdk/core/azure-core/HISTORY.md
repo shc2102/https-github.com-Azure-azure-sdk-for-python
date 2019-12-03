@@ -4,6 +4,10 @@
 -------------------
 ## Version 1.1.1 Unreleased
 
+### Bug fixes
+
+- Rewind the body position in retry #8307
+
 ## 2019-11-25 Version 1.1.0
 
 ### Features
